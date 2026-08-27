@@ -1,9 +1,16 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-26T20:27:26.355Z",
-    "original_repository": "44bits/awesome-opensource-documents",
-    "original_repository_id": 35621106,
+    "last_updated": "2026-08-27T11:56:02.116Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 35621106,
+      "language": null,
+      "last_commit": "2025-10-29T00:26:24Z",
+      "owner": "44bits",
+      "repo": "awesome-opensource-documents",
+      "stars": 2319
+    },
     "original_repository_sha": "5452f2fefc0de6a91b8ac2b53d7d01de2baaeb75",
     "enhanced_repository": "enhansome/enhansome-opensource-documents",
     "enhanced_repository_description": null,
