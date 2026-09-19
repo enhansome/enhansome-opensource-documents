@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-09-18T21:04:45.350Z",
+    "last_updated": "2026-09-19T20:52:56.774Z",
     "original_repository_info": {
       "archived": false,
       "description": ":blue_book: A curated list of awesome open source or open source licensed documents, guides, books.",
@@ -9,14 +9,14 @@
       "id": 35621106,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2025-10-29T00:26:24Z",
-      "open_issues": 14,
+      "last_commit": "2026-09-19T03:08:38Z",
+      "open_issues": 12,
       "owner": "44bits",
       "repo": "awesome-opensource-documents",
-      "stars": 2328,
+      "stars": 2329,
       "topics": []
     },
-    "original_repository_sha": "5452f2fefc0de6a91b8ac2b53d7d01de2baaeb75",
+    "original_repository_sha": "0ba93942f271e4f89202320a40571a82835c401d",
     "enhanced_repository": "enhansome/enhansome-opensource-documents",
     "enhanced_repository_description": null,
     "title": "Awesome Open Source Documents with stars"
