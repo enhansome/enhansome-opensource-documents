@@ -1278,4 +1278,4 @@ This is not a list of free programming books. This is a curated list of open sou
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
